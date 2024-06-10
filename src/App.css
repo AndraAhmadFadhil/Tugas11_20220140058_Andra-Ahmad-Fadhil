@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+  border-radius: 20px; 
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+  margin-top: 20px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px; 
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+}
+
+.img-fluid {
+  max-height: 200px;
+}
